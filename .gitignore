@@ -1,0 +1,7 @@
+# 公開（GitHub Pages）には index.html と assets/ の写真のみ
+_variants/
+_build/
+_preview/
+assets/source/
+.playwright-mcp/
+*.log
